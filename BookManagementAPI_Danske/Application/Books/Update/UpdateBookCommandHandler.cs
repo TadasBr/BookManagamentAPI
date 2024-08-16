@@ -1,7 +1,9 @@
 ﻿using Application.Data;
 using Domain.Books;
 using MediatR;
+using System.Runtime.CompilerServices;
 
+[assembly: InternalsVisibleTo("BookManagementAPI_Tests")]
 namespace Application.Books.Update;
 
 internal sealed class UpdateBookCommandHandler : IRequestHandler<UpdateBookCommand>

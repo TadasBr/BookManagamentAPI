@@ -1,7 +1,9 @@
 ﻿using MediatR;
 using Domain.Books;
 using Application.Data;
+using System.Runtime.CompilerServices;
 
+[assembly: InternalsVisibleTo("BookManagementAPI_Tests")]
 namespace Application.Books.Create;
 
 internal class CreateBookCommandHandler : IRequestHandler<CreateBookCommand>

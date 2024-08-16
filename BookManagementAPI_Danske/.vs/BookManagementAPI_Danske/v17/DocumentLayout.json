@@ -1,126 +1,150 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\",
+  "WorkspaceRootPath": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E486021-A301-49B6-BA48-3AEDC2537960}|Infrastructure\\Infrastructure.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E486021-A301-49B6-BA48-3AEDC2537960}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{853EEB57-CFB7-4822-B1F4-E9405596324F}|BookManagementAPI_Tests\\BookManagementAPI_Tests.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\bookmanagementapi_tests\\bookmanagementapi_tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{853EEB57-CFB7-4822-B1F4-E9405596324F}|BookManagementAPI_Tests\\BookManagementAPI_Tests.csproj|solutionrelative:bookmanagementapi_tests\\bookmanagementapi_tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E486021-A301-49B6-BA48-3AEDC2537960}|Infrastructure\\Infrastructure.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E486021-A301-49B6-BA48-3AEDC2537960}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE31CDF4-6C00-4D19-A43D-864344E076E0}|BookManagementAPI_Danske\\BookManagementAPI_Danske.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\bookmanagementapi_danske\\bookmanagementapi_danske.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE31CDF4-6C00-4D19-A43D-864344E076E0}|BookManagementAPI_Danske\\BookManagementAPI_Danske.csproj|solutionrelative:bookmanagementapi_danske\\bookmanagementapi_danske.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E486021-A301-49B6-BA48-3AEDC2537960}|Infrastructure\\Infrastructure.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E486021-A301-49B6-BA48-3AEDC2537960}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{853EEB57-CFB7-4822-B1F4-E9405596324F}|BookManagementAPI_Tests\\BookManagementAPI_Tests.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\bookmanagementapi_tests\\application\\books\\create\\createbookcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853EEB57-CFB7-4822-B1F4-E9405596324F}|BookManagementAPI_Tests\\BookManagementAPI_Tests.csproj|solutionrelative:bookmanagementapi_tests\\application\\books\\create\\createbookcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90794CF-4EB4-4FC7-8521-74A0ECF5E6AF}|Domain\\Domain.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\domain\\primitives\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90794CF-4EB4-4FC7-8521-74A0ECF5E6AF}|Domain\\Domain.csproj|solutionrelative:domain\\primitives\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE31CDF4-6C00-4D19-A43D-864344E076E0}|BookManagementAPI_Danske\\BookManagementAPI_Danske.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\bookmanagementapi_danske\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE31CDF4-6C00-4D19-A43D-864344E076E0}|BookManagementAPI_Danske\\BookManagementAPI_Danske.csproj|solutionrelative:bookmanagementapi_danske\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90794CF-4EB4-4FC7-8521-74A0ECF5E6AF}|Domain\\Domain.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\domain\\primitives\\domainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90794CF-4EB4-4FC7-8521-74A0ECF5E6AF}|Domain\\Domain.csproj|solutionrelative:domain\\primitives\\domainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{853EEB57-CFB7-4822-B1F4-E9405596324F}|BookManagementAPI_Tests\\BookManagementAPI_Tests.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\bookmanagementapi_tests\\bookmanagementapi_tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{853EEB57-CFB7-4822-B1F4-E9405596324F}|BookManagementAPI_Tests\\BookManagementAPI_Tests.csproj|solutionrelative:bookmanagementapi_tests\\bookmanagementapi_tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90794CF-4EB4-4FC7-8521-74A0ECF5E6AF}|Domain\\Domain.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\domain\\books\\booknotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90794CF-4EB4-4FC7-8521-74A0ECF5E6AF}|Domain\\Domain.csproj|solutionrelative:domain\\books\\booknotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{853EEB57-CFB7-4822-B1F4-E9405596324F}|BookManagementAPI_Tests\\BookManagementAPI_Tests.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\bookmanagementapi_tests\\application\\books\\getbooksbytitleandauthor\\getbooksbytitleandauthortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853EEB57-CFB7-4822-B1F4-E9405596324F}|BookManagementAPI_Tests\\BookManagementAPI_Tests.csproj|solutionrelative:bookmanagementapi_tests\\application\\books\\getbooksbytitleandauthor\\getbooksbytitleandauthortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\application\\books\\update\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\books\\update\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\application\\books\\update\\updatebookcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\books\\update\\updatebookcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\application\\books\\create\\createbookcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\books\\create\\createbookcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\application\\books\\create\\createbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\books\\create\\createbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\application\\books\\update\\updatebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\books\\update\\updatebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\application\\books\\create\\createbookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\books\\create\\createbookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\application\\abstractions\\messaging\\icommandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\abstractions\\messaging\\icommandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\application\\abstractions\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\abstractions\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE31CDF4-6C00-4D19-A43D-864344E076E0}|BookManagementAPI_Danske\\BookManagementAPI_Danske.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\bookmanagementapi_danske\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE31CDF4-6C00-4D19-A43D-864344E076E0}|BookManagementAPI_Danske\\BookManagementAPI_Danske.csproj|solutionrelative:bookmanagementapi_danske\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE31CDF4-6C00-4D19-A43D-864344E076E0}|BookManagementAPI_Danske\\BookManagementAPI_Danske.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\bookmanagementapi_danske\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE31CDF4-6C00-4D19-A43D-864344E076E0}|BookManagementAPI_Danske\\BookManagementAPI_Danske.csproj|solutionrelative:bookmanagementapi_danske\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE31CDF4-6C00-4D19-A43D-864344E076E0}|BookManagementAPI_Danske\\BookManagementAPI_Danske.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\bookmanagementapi_danske\\endpoints\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE31CDF4-6C00-4D19-A43D-864344E076E0}|BookManagementAPI_Danske\\BookManagementAPI_Danske.csproj|solutionrelative:bookmanagementapi_danske\\endpoints\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A90794CF-4EB4-4FC7-8521-74A0ECF5E6AF}|Domain\\Domain.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\domain\\books\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A90794CF-4EB4-4FC7-8521-74A0ECF5E6AF}|Domain\\Domain.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\domain\\books\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A90794CF-4EB4-4FC7-8521-74A0ECF5E6AF}|Domain\\Domain.csproj|solutionrelative:domain\\books\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90794CF-4EB4-4FC7-8521-74A0ECF5E6AF}|Domain\\Domain.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\domain\\books\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90794CF-4EB4-4FC7-8521-74A0ECF5E6AF}|Domain\\Domain.csproj|solutionrelative:domain\\books\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E486021-A301-49B6-BA48-3AEDC2537960}|Infrastructure\\Infrastructure.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E486021-A301-49B6-BA48-3AEDC2537960}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\application\\books\\delete\\deletebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{853EEB57-CFB7-4822-B1F4-E9405596324F}|BookManagementAPI_Tests\\BookManagementAPI_Tests.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\bookmanagementapi_tests\\application\\books\\update\\updatebookcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853EEB57-CFB7-4822-B1F4-E9405596324F}|BookManagementAPI_Tests\\BookManagementAPI_Tests.csproj|solutionrelative:bookmanagementapi_tests\\application\\books\\update\\updatebookcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90794CF-4EB4-4FC7-8521-74A0ECF5E6AF}|Domain\\Domain.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\domain\\books\\booknotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90794CF-4EB4-4FC7-8521-74A0ECF5E6AF}|Domain\\Domain.csproj|solutionrelative:domain\\books\\booknotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\application\\books\\create\\createbookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\books\\create\\createbookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\application\\books\\delete\\deletebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\books\\delete\\deletebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\application\\books\\delete\\deletebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\books\\delete\\deletebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\application\\books\\get\\getbookquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\books\\get\\getbookquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\application\\books\\get\\getbookqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\application\\books\\get\\getbookqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\books\\get\\getbookqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\application\\books\\getall\\getallbooksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\books\\getall\\getallbooksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\application\\books\\get\\getbookquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\books\\get\\getbookquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\application\\books\\getall\\getallbooksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\books\\getall\\getallbooksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\application\\books\\delete\\deletebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\books\\delete\\deletebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\application\\books\\getbooksbytitleorauthor\\getbooksbytitleorauthorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\books\\getbooksbytitleorauthor\\getbooksbytitleorauthorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\application\\books\\create\\createbookcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\books\\create\\createbookcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\application\\books\\getbooksbytitleorauthor\\getbooksbytitleorauthorqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\application\\books\\create\\createbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\books\\create\\createbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E486021-A301-49B6-BA48-3AEDC2537960}|Infrastructure\\Infrastructure.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E486021-A301-49B6-BA48-3AEDC2537960}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E486021-A301-49B6-BA48-3AEDC2537960}|Infrastructure\\Infrastructure.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E486021-A301-49B6-BA48-3AEDC2537960}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90794CF-4EB4-4FC7-8521-74A0ECF5E6AF}|Domain\\Domain.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\domain\\books\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90794CF-4EB4-4FC7-8521-74A0ECF5E6AF}|Domain\\Domain.csproj|solutionrelative:domain\\books\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\application\\books\\getbooksbytitleorauthor\\getbooksbytitleorauthorqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\books\\getbooksbytitleorauthor\\getbooksbytitleorauthorqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE31CDF4-6C00-4D19-A43D-864344E076E0}|BookManagementAPI_Danske\\BookManagementAPI_Danske.csproj|c:\\users\\tadasbrazaitis\\source\\repos\\bookmanagementapi_danske\\bookmanagementapi_danske\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EE31CDF4-6C00-4D19-A43D-864344E076E0}|BookManagementAPI_Danske\\BookManagementAPI_Danske.csproj|solutionrelative:bookmanagementapi_danske\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\application\\books\\update\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\books\\update\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\application\\books\\update\\updatebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\books\\update\\updatebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\application\\books\\update\\updatebookcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\books\\update\\updatebookcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90794CF-4EB4-4FC7-8521-74A0ECF5E6AF}|Domain\\Domain.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\domain\\primitives\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90794CF-4EB4-4FC7-8521-74A0ECF5E6AF}|Domain\\Domain.csproj|solutionrelative:domain\\primitives\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90794CF-4EB4-4FC7-8521-74A0ECF5E6AF}|Domain\\Domain.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\domain\\primitives\\domainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90794CF-4EB4-4FC7-8521-74A0ECF5E6AF}|Domain\\Domain.csproj|solutionrelative:domain\\primitives\\domainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\application\\abstractions\\messaging\\icommandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\abstractions\\messaging\\icommandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\application\\abstractions\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\abstractions\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE31CDF4-6C00-4D19-A43D-864344E076E0}|BookManagementAPI_Danske\\BookManagementAPI_Danske.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\bookmanagementapi_danske\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE31CDF4-6C00-4D19-A43D-864344E076E0}|BookManagementAPI_Danske\\BookManagementAPI_Danske.csproj|solutionrelative:bookmanagementapi_danske\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE31CDF4-6C00-4D19-A43D-864344E076E0}|BookManagementAPI_Danske\\BookManagementAPI_Danske.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\bookmanagementapi_danske\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE31CDF4-6C00-4D19-A43D-864344E076E0}|BookManagementAPI_Danske\\BookManagementAPI_Danske.csproj|solutionrelative:bookmanagementapi_danske\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE31CDF4-6C00-4D19-A43D-864344E076E0}|BookManagementAPI_Danske\\BookManagementAPI_Danske.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\bookmanagementapi_danske\\endpoints\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE31CDF4-6C00-4D19-A43D-864344E076E0}|BookManagementAPI_Danske\\BookManagementAPI_Danske.csproj|solutionrelative:bookmanagementapi_danske\\endpoints\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\application\\books\\getall\\getallbooksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\books\\getall\\getallbooksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\application\\books\\getall\\getallbooksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\books\\getall\\getallbooksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|c:\\users\\tadasbrazaitis\\desktop\\bookmanagamentapi\\bookmanagementapi_danske\\application\\books\\getbooksbytitleorauthor\\getbooksbytitleorauthorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A2DCFB-8741-4BB3-B263-DBD8F5B8F342}|Application\\Application.csproj|solutionrelative:application\\books\\getbooksbytitleorauthor\\getbooksbytitleorauthorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -130,7 +154,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -142,393 +166,437 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UpdateBookCommandValidator.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\Update\\UpdateBookCommandValidator.cs",
-              "RelativeDocumentMoniker": "Application\\Books\\Update\\UpdateBookCommandValidator.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\Update\\UpdateBookCommandValidator.cs",
-              "RelativeToolTip": "Application\\Books\\Update\\UpdateBookCommandValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T09:56:37.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CreateBookCommandValidator.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\Create\\CreateBookCommandValidator.cs",
-              "RelativeDocumentMoniker": "Application\\Books\\Create\\CreateBookCommandValidator.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\Create\\CreateBookCommandValidator.cs",
-              "RelativeToolTip": "Application\\Books\\Create\\CreateBookCommandValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T09:39:05.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ExceptionHandlingMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\BookManagementAPI_Danske\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "RelativeDocumentMoniker": "BookManagementAPI_Danske\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\BookManagementAPI_Danske\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "RelativeToolTip": "BookManagementAPI_Danske\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAwwDUAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T09:13:33.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ValidationException.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Exceptions\\ValidationException.cs",
-              "RelativeDocumentMoniker": "Application\\Exceptions\\ValidationException.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Exceptions\\ValidationException.cs",
-              "RelativeToolTip": "Application\\Exceptions\\ValidationException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T09:07:14.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ICommandBase.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Abstractions\\Messaging\\ICommandBase.cs",
-              "RelativeDocumentMoniker": "Application\\Abstractions\\Messaging\\ICommandBase.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Abstractions\\Messaging\\ICommandBase.cs",
-              "RelativeToolTip": "Application\\Abstractions\\Messaging\\ICommandBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:54:44.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ValidationBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Abstractions\\Behaviors\\ValidationBehavior.cs",
-              "RelativeDocumentMoniker": "Application\\Abstractions\\Behaviors\\ValidationBehavior.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Abstractions\\Behaviors\\ValidationBehavior.cs",
-              "RelativeToolTip": "Application\\Abstractions\\Behaviors\\ValidationBehavior.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwBkAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:51:57.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UpdateBookCommand.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\Update\\UpdateBookCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Books\\Update\\UpdateBookCommand.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\Update\\UpdateBookCommand.cs",
-              "RelativeToolTip": "Application\\Books\\Update\\UpdateBookCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:30:30.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UpdateBookCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\Update\\UpdateBookCommandHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Books\\Update\\UpdateBookCommandHandler.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\Update\\UpdateBookCommandHandler.cs",
-              "RelativeToolTip": "Application\\Books\\Update\\UpdateBookCommandHandler.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:30:29.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\DependencyInjection.cs",
-              "RelativeToolTip": "Application\\DependencyInjection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:30:27.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwCIAAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:29:31.702Z",
+              "DocumentIndex": 1,
+              "Title": "BookManagementAPI_Danske.csproj",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\BookManagementAPI_Danske\\BookManagementAPI_Danske.csproj",
+              "RelativeDocumentMoniker": "BookManagementAPI_Danske\\BookManagementAPI_Danske.csproj",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\BookManagementAPI_Danske\\BookManagementAPI_Danske.csproj",
+              "RelativeToolTip": "BookManagementAPI_Danske\\BookManagementAPI_Danske.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-16T10:55:38.688Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Infrastructure\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Infrastructure\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "CreateBookCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\BookManagementAPI_Tests\\Application\\Books\\Create\\CreateBookCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "BookManagementAPI_Tests\\Application\\Books\\Create\\CreateBookCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\BookManagementAPI_Tests\\Application\\Books\\Create\\CreateBookCommandHandlerTests.cs",
+              "RelativeToolTip": "BookManagementAPI_Tests\\Application\\Books\\Create\\CreateBookCommandHandlerTests.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:29:26.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T10:22:54.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Domain\\Primitives\\Entity.cs",
-              "RelativeDocumentMoniker": "Domain\\Primitives\\Entity.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Domain\\Primitives\\Entity.cs",
-              "RelativeToolTip": "Domain\\Primitives\\Entity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:28:12.149Z",
+              "DocumentIndex": 0,
+              "Title": "BookManagementAPI_Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\BookManagementAPI_Tests\\BookManagementAPI_Tests.csproj",
+              "RelativeDocumentMoniker": "BookManagementAPI_Tests\\BookManagementAPI_Tests.csproj",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\BookManagementAPI_Tests\\BookManagementAPI_Tests.csproj",
+              "RelativeToolTip": "BookManagementAPI_Tests\\BookManagementAPI_Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-16T10:52:11.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DomainEvent.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Domain\\Primitives\\DomainEvent.cs",
-              "RelativeDocumentMoniker": "Domain\\Primitives\\DomainEvent.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Domain\\Primitives\\DomainEvent.cs",
-              "RelativeToolTip": "Domain\\Primitives\\DomainEvent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:28:09.701Z",
+              "Title": "BookManagementAPI_Tests",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\BookManagementAPI_Tests\\BookManagementAPI_Tests.csproj",
+              "RelativeDocumentMoniker": "BookManagementAPI_Tests\\BookManagementAPI_Tests.csproj",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\BookManagementAPI_Tests\\BookManagementAPI_Tests.csproj",
+              "RelativeToolTip": "BookManagementAPI_Tests\\BookManagementAPI_Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-16T11:11:51.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "BookNotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Domain\\Books\\BookNotFoundException.cs",
-              "RelativeDocumentMoniker": "Domain\\Books\\BookNotFoundException.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Domain\\Books\\BookNotFoundException.cs",
-              "RelativeToolTip": "Domain\\Books\\BookNotFoundException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Title": "GetBooksByTitleAndAuthorTests.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\BookManagementAPI_Tests\\Application\\Books\\GetBooksByTitleAndAuthor\\GetBooksByTitleAndAuthorTests.cs",
+              "RelativeDocumentMoniker": "BookManagementAPI_Tests\\Application\\Books\\GetBooksByTitleAndAuthor\\GetBooksByTitleAndAuthorTests.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\BookManagementAPI_Tests\\Application\\Books\\GetBooksByTitleAndAuthor\\GetBooksByTitleAndAuthorTests.cs",
+              "RelativeToolTip": "BookManagementAPI_Tests\\Application\\Books\\GetBooksByTitleAndAuthor\\GetBooksByTitleAndAuthorTests.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwBMAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:27:55.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T10:43:30.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Domain\\Books\\Book.cs",
+              "RelativeDocumentMoniker": "Domain\\Books\\Book.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Domain\\Books\\Book.cs",
+              "RelativeToolTip": "Domain\\Books\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:22:26.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\BookManagementAPI_Danske\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\BookManagementAPI_Danske\\appsettings.json",
               "RelativeDocumentMoniker": "BookManagementAPI_Danske\\appsettings.json",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\BookManagementAPI_Danske\\appsettings.json",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\BookManagementAPI_Danske\\appsettings.json",
               "RelativeToolTip": "BookManagementAPI_Danske\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-16T08:24:33.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T08:24:33.028Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\BookManagementAPI_Danske\\Program.cs",
-              "RelativeDocumentMoniker": "BookManagementAPI_Danske\\Program.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\BookManagementAPI_Danske\\Program.cs",
-              "RelativeToolTip": "BookManagementAPI_Danske\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAwAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:23:20.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Domain\\Books\\Book.cs",
-              "RelativeDocumentMoniker": "Domain\\Books\\Book.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Domain\\Books\\Book.cs",
-              "RelativeToolTip": "Domain\\Books\\Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:22:26.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "GetBooksByTitleOrAuthorQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\GetBooksByTitleOrAuthor\\GetBooksByTitleOrAuthorQueryHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Books\\GetBooksByTitleOrAuthor\\GetBooksByTitleOrAuthorQueryHandler.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\GetBooksByTitleOrAuthor\\GetBooksByTitleOrAuthorQueryHandler.cs",
-              "RelativeToolTip": "Application\\Books\\GetBooksByTitleOrAuthor\\GetBooksByTitleOrAuthorQueryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:13:10.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "DeleteBookCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\Delete\\DeleteBookCommandHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Books\\Delete\\DeleteBookCommandHandler.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\Delete\\DeleteBookCommandHandler.cs",
-              "RelativeToolTip": "Application\\Books\\Delete\\DeleteBookCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:12:14.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "GetBookQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\Get\\GetBookQueryHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Books\\Get\\GetBookQueryHandler.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\Get\\GetBookQueryHandler.cs",
-              "RelativeToolTip": "Application\\Books\\Get\\GetBookQueryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:12:13.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "GetBookQuery.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\Get\\GetBookQuery.cs",
-              "RelativeDocumentMoniker": "Application\\Books\\Get\\GetBookQuery.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\Get\\GetBookQuery.cs",
-              "RelativeToolTip": "Application\\Books\\Get\\GetBookQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:12:07.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "DeleteBookCommand.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\Delete\\DeleteBookCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Books\\Delete\\DeleteBookCommand.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\Delete\\DeleteBookCommand.cs",
-              "RelativeToolTip": "Application\\Books\\Delete\\DeleteBookCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:12:04.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CreateBookCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\Create\\CreateBookCommandHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Books\\Create\\CreateBookCommandHandler.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\Create\\CreateBookCommandHandler.cs",
-              "RelativeToolTip": "Application\\Books\\Create\\CreateBookCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:11:56.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "GetBooksByTitleOrAuthorQuery.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\GetBooksByTitleOrAuthor\\GetBooksByTitleOrAuthorQuery.cs",
-              "RelativeDocumentMoniker": "Application\\Books\\GetBooksByTitleOrAuthor\\GetBooksByTitleOrAuthorQuery.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\GetBooksByTitleOrAuthor\\GetBooksByTitleOrAuthorQuery.cs",
-              "RelativeToolTip": "Application\\Books\\GetBooksByTitleOrAuthor\\GetBooksByTitleOrAuthorQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:10:29.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "BookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Infrastructure\\Repositories\\BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Infrastructure\\Repositories\\BookRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\BookRepository.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Infrastructure\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Infrastructure\\Repositories\\BookRepository.cs",
               "RelativeToolTip": "Infrastructure\\Repositories\\BookRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAhAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowBkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:08:09.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T08:08:09.229Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IBookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Domain\\Books\\IBookRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Books\\IBookRepository.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Domain\\Books\\IBookRepository.cs",
-              "RelativeToolTip": "Domain\\Books\\IBookRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "DocumentIndex": 8,
+              "Title": "UpdateBookCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\BookManagementAPI_Tests\\Application\\Books\\Update\\UpdateBookCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "BookManagementAPI_Tests\\Application\\Books\\Update\\UpdateBookCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\BookManagementAPI_Tests\\Application\\Books\\Update\\UpdateBookCommandHandlerTests.cs",
+              "RelativeToolTip": "BookManagementAPI_Tests\\Application\\Books\\Update\\UpdateBookCommandHandlerTests.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwDIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:08:00.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Books.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\BookManagementAPI_Danske\\Endpoints\\Books.cs",
-              "RelativeDocumentMoniker": "BookManagementAPI_Danske\\Endpoints\\Books.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\BookManagementAPI_Danske\\Endpoints\\Books.cs",
-              "RelativeToolTip": "BookManagementAPI_Danske\\Endpoints\\Books.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:07:48.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T10:38:23.984Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "CreateBookCommand.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\Create\\CreateBookCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Books\\Create\\CreateBookCommand.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\Create\\CreateBookCommand.cs",
-              "RelativeToolTip": "Application\\Books\\Create\\CreateBookCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Title": "BookNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Domain\\Books\\BookNotFoundException.cs",
+              "RelativeDocumentMoniker": "Domain\\Books\\BookNotFoundException.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Domain\\Books\\BookNotFoundException.cs",
+              "RelativeToolTip": "Domain\\Books\\BookNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:07:29.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T08:27:55.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "GetAllBooksQuery.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\GetAll\\GetAllBooksQuery.cs",
-              "RelativeDocumentMoniker": "Application\\Books\\GetAll\\GetAllBooksQuery.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\GetAll\\GetAllBooksQuery.cs",
-              "RelativeToolTip": "Application\\Books\\GetAll\\GetAllBooksQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
+              "DocumentIndex": 23,
+              "Title": "UpdateBookCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\Update\\UpdateBookCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Books\\Update\\UpdateBookCommandValidator.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\Update\\UpdateBookCommandValidator.cs",
+              "RelativeToolTip": "Application\\Books\\Update\\UpdateBookCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T07:59:40.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T09:56:37.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateBookCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\Create\\CreateBookCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Books\\Create\\CreateBookCommandValidator.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\Create\\CreateBookCommandValidator.cs",
+              "RelativeToolTip": "Application\\Books\\Create\\CreateBookCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:39:05.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\BookManagementAPI_Danske\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "BookManagementAPI_Danske\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\BookManagementAPI_Danske\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "BookManagementAPI_Danske\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwDUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:13:33.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "Application\\Exceptions\\ValidationException.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "Application\\Exceptions\\ValidationException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:07:14.735Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
+              "Title": "ICommandBase.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Abstractions\\Messaging\\ICommandBase.cs",
+              "RelativeDocumentMoniker": "Application\\Abstractions\\Messaging\\ICommandBase.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Abstractions\\Messaging\\ICommandBase.cs",
+              "RelativeToolTip": "Application\\Abstractions\\Messaging\\ICommandBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:54:44.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Abstractions\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "Application\\Abstractions\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Abstractions\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "Application\\Abstractions\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:51:57.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateBookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\Update\\UpdateBookCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Books\\Update\\UpdateBookCommand.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\Update\\UpdateBookCommand.cs",
+              "RelativeToolTip": "Application\\Books\\Update\\UpdateBookCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:30:30.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateBookCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\Update\\UpdateBookCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Books\\Update\\UpdateBookCommandHandler.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\Update\\UpdateBookCommandHandler.cs",
+              "RelativeToolTip": "Application\\Books\\Update\\UpdateBookCommandHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:30:29.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:30:27.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:29:31.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Infrastructure\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Infrastructure\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:29:26.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Domain\\Primitives\\Entity.cs",
+              "RelativeDocumentMoniker": "Domain\\Primitives\\Entity.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Domain\\Primitives\\Entity.cs",
+              "RelativeToolTip": "Domain\\Primitives\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:28:12.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Domain\\Primitives\\DomainEvent.cs",
+              "RelativeDocumentMoniker": "Domain\\Primitives\\DomainEvent.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Domain\\Primitives\\DomainEvent.cs",
+              "RelativeToolTip": "Domain\\Primitives\\DomainEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:28:09.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\BookManagementAPI_Danske\\Program.cs",
+              "RelativeDocumentMoniker": "BookManagementAPI_Danske\\Program.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\BookManagementAPI_Danske\\Program.cs",
+              "RelativeToolTip": "BookManagementAPI_Danske\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABRwAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:23:20.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetBooksByTitleOrAuthorQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\GetBooksByTitleOrAuthor\\GetBooksByTitleOrAuthorQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Books\\GetBooksByTitleOrAuthor\\GetBooksByTitleOrAuthorQueryHandler.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\GetBooksByTitleOrAuthor\\GetBooksByTitleOrAuthorQueryHandler.cs",
+              "RelativeToolTip": "Application\\Books\\GetBooksByTitleOrAuthor\\GetBooksByTitleOrAuthorQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:13:10.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteBookCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\Delete\\DeleteBookCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Books\\Delete\\DeleteBookCommandHandler.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\Delete\\DeleteBookCommandHandler.cs",
+              "RelativeToolTip": "Application\\Books\\Delete\\DeleteBookCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:12:14.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetBookQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\Get\\GetBookQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Books\\Get\\GetBookQueryHandler.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\Get\\GetBookQueryHandler.cs",
+              "RelativeToolTip": "Application\\Books\\Get\\GetBookQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:12:13.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetBookQuery.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\Get\\GetBookQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Books\\Get\\GetBookQuery.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\Get\\GetBookQuery.cs",
+              "RelativeToolTip": "Application\\Books\\Get\\GetBookQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:12:07.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeleteBookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\Delete\\DeleteBookCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Books\\Delete\\DeleteBookCommand.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\Delete\\DeleteBookCommand.cs",
+              "RelativeToolTip": "Application\\Books\\Delete\\DeleteBookCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:12:04.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateBookCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\Create\\CreateBookCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Books\\Create\\CreateBookCommandHandler.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\Create\\CreateBookCommandHandler.cs",
+              "RelativeToolTip": "Application\\Books\\Create\\CreateBookCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:11:56.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetBooksByTitleOrAuthorQuery.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\GetBooksByTitleOrAuthor\\GetBooksByTitleOrAuthorQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Books\\GetBooksByTitleOrAuthor\\GetBooksByTitleOrAuthorQuery.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\GetBooksByTitleOrAuthor\\GetBooksByTitleOrAuthorQuery.cs",
+              "RelativeToolTip": "Application\\Books\\GetBooksByTitleOrAuthor\\GetBooksByTitleOrAuthorQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:10:29.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Domain\\Books\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Books\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Domain\\Books\\IBookRepository.cs",
+              "RelativeToolTip": "Domain\\Books\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:08:00.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\BookManagementAPI_Danske\\Endpoints\\Books.cs",
+              "RelativeDocumentMoniker": "BookManagementAPI_Danske\\Endpoints\\Books.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\BookManagementAPI_Danske\\Endpoints\\Books.cs",
+              "RelativeToolTip": "BookManagementAPI_Danske\\Endpoints\\Books.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:07:48.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateBookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\Create\\CreateBookCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Books\\Create\\CreateBookCommand.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\Create\\CreateBookCommand.cs",
+              "RelativeToolTip": "Application\\Books\\Create\\CreateBookCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:07:29.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetAllBooksQuery.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\GetAll\\GetAllBooksQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Books\\GetAll\\GetAllBooksQuery.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\GetAll\\GetAllBooksQuery.cs",
+              "RelativeToolTip": "Application\\Books\\GetAll\\GetAllBooksQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:59:40.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "GetAllBooksQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\GetAll\\GetAllBooksQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\GetAll\\GetAllBooksQueryHandler.cs",
               "RelativeDocumentMoniker": "Application\\Books\\GetAll\\GetAllBooksQueryHandler.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\source\\repos\\BookManagementAPI_Danske\\Application\\Books\\GetAll\\GetAllBooksQueryHandler.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\Desktop\\BookManagamentAPI\\BookManagementAPI_Danske\\Application\\Books\\GetAll\\GetAllBooksQueryHandler.cs",
               "RelativeToolTip": "Application\\Books\\GetAll\\GetAllBooksQueryHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T13:53:05.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T13:53:05.205Z"
             }
           ]
         }

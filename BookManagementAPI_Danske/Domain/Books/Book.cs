@@ -29,5 +29,7 @@ public class Book
         ISBN = isbn;
         PublicationYear = publicationYear;
     }
+
+    public void SetId(int id) => Id = id;
 }
 

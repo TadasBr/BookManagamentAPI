@@ -1,7 +1,9 @@
 ﻿using Application.Books.GetBooksByTitleOrAuthor;
 using Domain.Books;
 using MediatR;
+using System.Runtime.CompilerServices;
 
+[assembly: InternalsVisibleTo("BookManagementAPI_Tests")]
 namespace Application.Books.GetAll;
 
 internal sealed class GetAllBooksByTitleOrAuthorQueryHandler : IRequestHandler<GetBooksByTitleOrAuthorQuery, List<Book>>
