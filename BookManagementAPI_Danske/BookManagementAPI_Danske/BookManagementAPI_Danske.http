@@ -1,0 +1,6 @@
+@BookManagementAPI_Danske_HostAddress = http://localhost:5239
+
+GET {{BookManagementAPI_Danske_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

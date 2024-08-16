@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BookManagementAPI_Danske.props" />
+</Project>
