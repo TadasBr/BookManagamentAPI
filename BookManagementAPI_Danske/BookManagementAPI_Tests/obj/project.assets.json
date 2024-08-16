@@ -625,6 +625,14 @@
           }
         }
       },
+      "xunit/2.7.0": {
+        "type": "package",
+        "dependencies": {
+          "xunit.analyzers": "1.11.0",
+          "xunit.assert": "2.7.0",
+          "xunit.core": "[2.7.0]"
+        }
+      },
       "xunit.abstractions/2.0.3": {
         "type": "package",
         "compile": {
@@ -637,6 +645,9 @@
             "related": ".xml"
           }
         }
+      },
+      "xunit.analyzers/1.11.0": {
+        "type": "package"
       },
       "xunit.assert/2.7.0": {
         "type": "package",
@@ -651,7 +662,22 @@
           }
         }
       },
-      "xunit.extensibility.core/2.9.0": {
+      "xunit.core/2.7.0": {
+        "type": "package",
+        "dependencies": {
+          "xunit.extensibility.core": "[2.7.0]",
+          "xunit.extensibility.execution": "[2.7.0]"
+        },
+        "build": {
+          "build/xunit.core.props": {},
+          "build/xunit.core.targets": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/xunit.core.props": {},
+          "buildMultiTargeting/xunit.core.targets": {}
+        }
+      },
+      "xunit.extensibility.core/2.7.0": {
         "type": "package",
         "dependencies": {
           "xunit.abstractions": "2.0.3"
@@ -667,13 +693,23 @@
           }
         }
       },
-      "xunit.runner.console/2.7.0": {
+      "xunit.extensibility.execution/2.7.0": {
         "type": "package",
-        "build": {
-          "build/xunit.runner.console.props": {}
+        "dependencies": {
+          "xunit.extensibility.core": "[2.7.0]"
+        },
+        "compile": {
+          "lib/netstandard1.1/xunit.execution.dotnet.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard1.1/xunit.execution.dotnet.dll": {
+            "related": ".xml"
+          }
         }
       },
-      "xunit.runner.visualstudio/2.8.2": {
+      "xunit.runner.visualstudio/2.5.7": {
         "type": "package",
         "compile": {
           "lib/net6.0/_._": {}
@@ -1525,6 +1561,19 @@
         "version.txt"
       ]
     },
+    "xunit/2.7.0": {
+      "sha512": "KcCI5zxh8zbUfQTeErc4oT7YokViVND2V0p4vDJ2VD4lhF9V5qCYMMDNixme7FdwYy3SwPHF+2xC2Dq4Z9GSlA==",
+      "type": "package",
+      "path": "xunit/2.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "_content/README.md",
+        "_content/logo-128-transparent.png",
+        "xunit.2.7.0.nupkg.sha512",
+        "xunit.nuspec"
+      ]
+    },
     "xunit.abstractions/2.0.3": {
       "sha512": "pot1I4YOxlWjIb5jmwvvQNbTrZ3lJQ+jUGkGjWE3hEFM0l5gOnBWS+H3qsex68s5cO52g+44vpGzhAt+42vwKg==",
       "type": "package",
@@ -1540,6 +1589,30 @@
         "lib/netstandard2.0/xunit.abstractions.xml",
         "xunit.abstractions.2.0.3.nupkg.sha512",
         "xunit.abstractions.nuspec"
+      ]
+    },
+    "xunit.analyzers/1.11.0": {
+      "sha512": "SCv+Ihxv+fCqotGeM8sVwLhw8nzAJ2aFRN5lcoKn9QtGdbVJ79JqDc+4u8/Ddnp2udxtmv+xYFWkHNlb/sk01w==",
+      "type": "package",
+      "path": "xunit.analyzers/1.11.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "_content/README.md",
+        "_content/logo-128-transparent.png",
+        "analyzers/dotnet/roslyn3.11/cs/xunit.analyzers.dll",
+        "analyzers/dotnet/roslyn3.11/cs/xunit.analyzers.fixes.dll",
+        "analyzers/dotnet/roslyn4.4/cs/xunit.analyzers.dll",
+        "analyzers/dotnet/roslyn4.4/cs/xunit.analyzers.fixes.dll",
+        "analyzers/dotnet/roslyn4.6/cs/xunit.analyzers.dll",
+        "analyzers/dotnet/roslyn4.6/cs/xunit.analyzers.fixes.dll",
+        "analyzers/dotnet/roslyn4.8/cs/xunit.analyzers.dll",
+        "analyzers/dotnet/roslyn4.8/cs/xunit.analyzers.fixes.dll",
+        "tools/install.ps1",
+        "tools/uninstall.ps1",
+        "xunit.analyzers.1.11.0.nupkg.sha512",
+        "xunit.analyzers.nuspec"
       ]
     },
     "xunit.assert/2.7.0": {
@@ -1559,10 +1632,27 @@
         "xunit.assert.nuspec"
       ]
     },
-    "xunit.extensibility.core/2.9.0": {
-      "sha512": "zjDEUSxsr6UNij4gIwCgMqQox+oLDPRZ+mubwWLci+SssPBFQD1xeRR4SvgBuXqbE0QXCJ/STVTp+lxiB5NLVA==",
+    "xunit.core/2.7.0": {
+      "sha512": "98tzqYAbtc/p/2Ba455XTNbD12Qoo8kPehjC4oDT46CAsLli5JOCU9hFF2MV3HHWMw/Y3yFUV2Vcukplbs6kuA==",
       "type": "package",
-      "path": "xunit.extensibility.core/2.9.0",
+      "path": "xunit.core/2.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "_content/README.md",
+        "_content/logo-128-transparent.png",
+        "build/xunit.core.props",
+        "build/xunit.core.targets",
+        "buildMultiTargeting/xunit.core.props",
+        "buildMultiTargeting/xunit.core.targets",
+        "xunit.core.2.7.0.nupkg.sha512",
+        "xunit.core.nuspec"
+      ]
+    },
+    "xunit.extensibility.core/2.7.0": {
+      "sha512": "JLnx4PI0vn1Xr1Ust6ydrp2t/ktm2dyGPAVoDJV5gQuvBMSbd2K7WGzODa2ttiz030CeQ8nbsXl05+cvf7QNyA==",
+      "type": "package",
+      "path": "xunit.extensibility.core/2.7.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1575,114 +1665,31 @@
         "lib/net452/xunit.runner.utility.net452.dll",
         "lib/netstandard1.1/xunit.core.dll",
         "lib/netstandard1.1/xunit.core.xml",
-        "xunit.extensibility.core.2.9.0.nupkg.sha512",
+        "xunit.extensibility.core.2.7.0.nupkg.sha512",
         "xunit.extensibility.core.nuspec"
       ]
     },
-    "xunit.runner.console/2.7.0": {
-      "sha512": "/9+Vp+mR34pJs6psVIGKhtpJJJ5ED8CBuwOgRMR3vkDKzPBvJYVuiVbPv40G/s09InDBQW9PC4+j8704Nl8HGw==",
+    "xunit.extensibility.execution/2.7.0": {
+      "sha512": "bjY+crT1jOyxKagFjCMdEVzoenO2v66ru8+CK/0UaXvyG4U9Q3UTieJkbQXbi7/1yZIK1sGh01l5/jh2CwLJtQ==",
       "type": "package",
-      "path": "xunit.runner.console/2.7.0",
-      "hasTools": true,
+      "path": "xunit.extensibility.execution/2.7.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "_content/README.md",
         "_content/logo-128-transparent.png",
-        "build/xunit.runner.console.props",
-        "tools/net452/xunit.abstractions.dll",
-        "tools/net452/xunit.console.exe",
-        "tools/net452/xunit.console.exe.config",
-        "tools/net452/xunit.console.x86.exe",
-        "tools/net452/xunit.console.x86.exe.config",
-        "tools/net452/xunit.runner.reporters.net452.dll",
-        "tools/net452/xunit.runner.utility.net452.dll",
-        "tools/net46/xunit.abstractions.dll",
-        "tools/net46/xunit.console.exe",
-        "tools/net46/xunit.console.exe.config",
-        "tools/net46/xunit.console.x86.exe",
-        "tools/net46/xunit.console.x86.exe.config",
-        "tools/net46/xunit.runner.reporters.net452.dll",
-        "tools/net46/xunit.runner.utility.net452.dll",
-        "tools/net461/xunit.abstractions.dll",
-        "tools/net461/xunit.console.exe",
-        "tools/net461/xunit.console.exe.config",
-        "tools/net461/xunit.console.x86.exe",
-        "tools/net461/xunit.console.x86.exe.config",
-        "tools/net461/xunit.runner.reporters.net452.dll",
-        "tools/net461/xunit.runner.utility.net452.dll",
-        "tools/net462/xunit.abstractions.dll",
-        "tools/net462/xunit.console.exe",
-        "tools/net462/xunit.console.exe.config",
-        "tools/net462/xunit.console.x86.exe",
-        "tools/net462/xunit.console.x86.exe.config",
-        "tools/net462/xunit.runner.reporters.net452.dll",
-        "tools/net462/xunit.runner.utility.net452.dll",
-        "tools/net47/xunit.abstractions.dll",
-        "tools/net47/xunit.console.exe",
-        "tools/net47/xunit.console.exe.config",
-        "tools/net47/xunit.console.x86.exe",
-        "tools/net47/xunit.console.x86.exe.config",
-        "tools/net47/xunit.runner.reporters.net452.dll",
-        "tools/net47/xunit.runner.utility.net452.dll",
-        "tools/net471/xunit.abstractions.dll",
-        "tools/net471/xunit.console.exe",
-        "tools/net471/xunit.console.exe.config",
-        "tools/net471/xunit.console.x86.exe",
-        "tools/net471/xunit.console.x86.exe.config",
-        "tools/net471/xunit.runner.reporters.net452.dll",
-        "tools/net471/xunit.runner.utility.net452.dll",
-        "tools/net472/xunit.abstractions.dll",
-        "tools/net472/xunit.console.exe",
-        "tools/net472/xunit.console.exe.config",
-        "tools/net472/xunit.console.x86.exe",
-        "tools/net472/xunit.console.x86.exe.config",
-        "tools/net472/xunit.runner.reporters.net452.dll",
-        "tools/net472/xunit.runner.utility.net452.dll",
-        "tools/net48/xunit.abstractions.dll",
-        "tools/net48/xunit.console.exe",
-        "tools/net48/xunit.console.exe.config",
-        "tools/net48/xunit.console.x86.exe",
-        "tools/net48/xunit.console.x86.exe.config",
-        "tools/net48/xunit.runner.reporters.net452.dll",
-        "tools/net48/xunit.runner.utility.net452.dll",
-        "tools/net481/xunit.abstractions.dll",
-        "tools/net481/xunit.console.exe",
-        "tools/net481/xunit.console.exe.config",
-        "tools/net481/xunit.console.x86.exe",
-        "tools/net481/xunit.console.x86.exe.config",
-        "tools/net481/xunit.runner.reporters.net452.dll",
-        "tools/net481/xunit.runner.utility.net452.dll",
-        "tools/net6.0/xunit.abstractions.dll",
-        "tools/net6.0/xunit.console.deps.json",
-        "tools/net6.0/xunit.console.dll",
-        "tools/net6.0/xunit.console.dll.config",
-        "tools/net6.0/xunit.console.exe",
-        "tools/net6.0/xunit.console.runtimeconfig.json",
-        "tools/net6.0/xunit.runner.reporters.netcoreapp10.dll",
-        "tools/net6.0/xunit.runner.utility.netcoreapp10.dll",
-        "tools/netcoreapp1.0/xunit.abstractions.dll",
-        "tools/netcoreapp1.0/xunit.console.deps.json",
-        "tools/netcoreapp1.0/xunit.console.dll",
-        "tools/netcoreapp1.0/xunit.console.dll.config",
-        "tools/netcoreapp1.0/xunit.console.runtimeconfig.json",
-        "tools/netcoreapp1.0/xunit.runner.reporters.netcoreapp10.dll",
-        "tools/netcoreapp1.0/xunit.runner.utility.netcoreapp10.dll",
-        "tools/netcoreapp2.0/xunit.abstractions.dll",
-        "tools/netcoreapp2.0/xunit.console.deps.json",
-        "tools/netcoreapp2.0/xunit.console.dll",
-        "tools/netcoreapp2.0/xunit.console.dll.config",
-        "tools/netcoreapp2.0/xunit.console.runtimeconfig.json",
-        "tools/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll",
-        "tools/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll",
-        "xunit.runner.console.2.7.0.nupkg.sha512",
-        "xunit.runner.console.nuspec"
+        "lib/net452/xunit.execution.desktop.dll",
+        "lib/net452/xunit.execution.desktop.xml",
+        "lib/netstandard1.1/xunit.execution.dotnet.dll",
+        "lib/netstandard1.1/xunit.execution.dotnet.xml",
+        "xunit.extensibility.execution.2.7.0.nupkg.sha512",
+        "xunit.extensibility.execution.nuspec"
       ]
     },
-    "xunit.runner.visualstudio/2.8.2": {
-      "sha512": "vm1tbfXhFmjFMUmS4M0J0ASXz3/U5XvXBa6DOQUL3fEz4Vt6YPhv+ESCarx6M6D+9kJkJYZKCNvJMas1+nVfmQ==",
+    "xunit.runner.visualstudio/2.5.7": {
+      "sha512": "31Rl7dBJriX0DNwZfDp8gqFOPsiM0c9kqpcH/HvNi9vDp+K7Ydf42H7mVIvYT918Ywzn1ymLg1c4DDC6iU754w==",
       "type": "package",
-      "path": "xunit.runner.visualstudio/2.8.2",
+      "path": "xunit.runner.visualstudio/2.5.7",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1700,7 +1707,7 @@
         "build/net6.0/xunit.runner.visualstudio.testadapter.dll",
         "lib/net462/_._",
         "lib/net6.0/_._",
-        "xunit.runner.visualstudio.2.8.2.nupkg.sha512",
+        "xunit.runner.visualstudio.2.5.7.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
     },
@@ -1720,11 +1727,8 @@
       "Application >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.9.0",
       "Moq >= 4.20.70",
-      "xunit.abstractions >= 2.0.3",
-      "xunit.assert >= 2.7.0",
-      "xunit.extensibility.core >= 2.9.0",
-      "xunit.runner.console >= 2.7.0",
-      "xunit.runner.visualstudio >= 2.8.2"
+      "xunit >= 2.7.0",
+      "xunit.runner.visualstudio >= 2.5.7"
     ]
   },
   "packageFolders": {
@@ -1785,21 +1789,7 @@
             "target": "Package",
             "version": "[4.20.70, )"
           },
-          "xunit.abstractions": {
-            "target": "Package",
-            "version": "[2.0.3, )"
-          },
-          "xunit.assert": {
-            "target": "Package",
-            "version": "[2.7.0, )"
-          },
-          "xunit.extensibility.core": {
-            "target": "Package",
-            "version": "[2.9.0, )"
-          },
-          "xunit.runner.console": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
+          "xunit": {
             "target": "Package",
             "version": "[2.7.0, )"
           },
@@ -1807,7 +1797,7 @@
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.8.2, )"
+            "version": "[2.5.7, )"
           }
         },
         "imports": [

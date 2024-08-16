@@ -17,7 +17,7 @@ internal sealed class GetAllBooksByTitleOrAuthorQueryHandler : IRequestHandler<G
 
     public async Task<List<Book>> Handle(GetBooksByTitleOrAuthorQuery request, CancellationToken cancellationToken)
     {
-        var books = await _bookRepository.SearchAsync(request.Title, request.Author);
+        List<Book> books = await _bookRepository.SearchAsync(request.Title, request.Author);
 
         return books.ToList();
     }

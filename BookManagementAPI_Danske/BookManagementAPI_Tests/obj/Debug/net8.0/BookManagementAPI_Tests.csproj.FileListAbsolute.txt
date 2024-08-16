@@ -119,3 +119,4 @@ C:\Users\TadasBrazaitis\Desktop\BookManagamentAPI\BookManagementAPI_Danske\BookM
 C:\Users\TadasBrazaitis\Desktop\BookManagamentAPI\BookManagementAPI_Danske\BookManagementAPI_Tests\obj\Debug\net8.0\BookManagementAPI_Tests.pdb
 C:\Users\TadasBrazaitis\Desktop\BookManagamentAPI\BookManagementAPI_Danske\BookManagementAPI_Tests\obj\Debug\net8.0\BookManagementAPI_Tests.genruntimeconfig.cache
 C:\Users\TadasBrazaitis\Desktop\BookManagamentAPI\BookManagementAPI_Danske\BookManagementAPI_Tests\obj\Debug\net8.0\ref\BookManagementAPI_Tests.dll
+C:\Users\TadasBrazaitis\Desktop\BookManagamentAPI\BookManagementAPI_Danske\BookManagementAPI_Tests\bin\Debug\net8.0\xunit.execution.dotnet.dll
